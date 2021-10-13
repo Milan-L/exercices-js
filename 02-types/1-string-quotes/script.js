@@ -1,4 +1,1 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// Hello 1 sortira en premier, ensuite hello name et pour terminer hello Ilya, // 
