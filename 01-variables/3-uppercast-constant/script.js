@@ -1,4 +1,2 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+" Pour birthday : nous pouvons le mettre en maj car c'est une constante"
+" Pour age: pas de maj car l'age n'est pas contant, elle change chaque année"
