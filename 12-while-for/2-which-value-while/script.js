@@ -1,4 +1,1 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// Les valeurs que la boucle affiche sont 1,2,3 et 4
